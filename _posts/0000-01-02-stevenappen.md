@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-Your text
+Dota is fun, till adulthood hits you to the moon and landed back on your bum
 Use the left arrow to go back!
